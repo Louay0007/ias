@@ -39,7 +39,7 @@ export { default as publication4 } from './img1.jpg';
 export { default as publication5 } from './img8.jpg';
 export { default as ochiside } from './ochi-side.png';
 export { default as eyeplay } from './eyeplay.svg';
-export { default as contactHero } from './con.jpg';
+export { default as contactHero } from './_con.png';
 
 // services page
 export { default as phase1 } from './phase1.png';
@@ -133,13 +133,13 @@ export { default as after3 } from './t11.jpeg';
 export { default as workizhero3 } from './t1.jpg';
 //  page iotspark
 export { default as workiz4 } from './k2.png';
-export { default as welcome4 } from './k4.jpg';
+export { default as welcome4 } from './k4.png';
 export { default as chelengeBg4 } from './k3.jpg';
 export { default as showcase14 } from './k7.jpg';
 export { default as showcase24 } from './k8.jpg';
 export { default as showcase34 } from './k5.jpg';
-export { default as showcase44 } from './k9.png';
-export { default as showcase54 } from './k10.png';
+export { default as showcase44 } from './k9.jpg';
+export { default as showcase54 } from './k10.jpg';
 export { default as showcase64 } from './k6.jpg';
 export { default as after4 } from './k11.jpg';
 export { default as workizhero4 } from './k1.jpg';
